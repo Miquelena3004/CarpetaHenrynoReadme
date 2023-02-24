@@ -1,0 +1,21 @@
+h1 {
+    color: blue;
+    background-color: black;
+    font-family: monospace;
+    
+}
+h1:hover {
+    color:bisque;
+}
+p{
+    font-size: 30px;
+    color: rgb(172, 160, 59);
+    border: 1px solid black;
+    border-radius: 10%;
+    
+}
+p:hover{
+    font-family: monospace;
+    color: brown;
+    background-color: chocolate;
+}
